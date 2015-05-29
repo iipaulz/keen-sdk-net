@@ -1,4 +1,5 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/yse9dl34l1hvuk9q/branch/master?svg=true)](https://ci.appveyor.com/project/iipaulz/keen-sdk-net-ijtn8/branch/master)
+[![Coverage Status](https://coveralls.io/repos/iipaulz/keen-sdk-net/badge.svg?branch=master)](https://coveralls.io/r/iipaulz/keen-sdk-net?branch=master)
 keen-sdk-net
 ============
 

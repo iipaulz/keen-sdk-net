@@ -1,3 +1,12 @@
+version: 1.0.{build}
+
+install:
+    - nuget restore
+
+build:
+  project: Keen.sln
+  verbosity: detailed
+
 environment:
     COVERALLS_REPO_TOKEN:  
        secure: 2nxO1JRH1PJLfBfqV4sAev9lGZ8afm6bq1wTGbgPw5w/FF+lmFghU2JZjTFz2wXd
